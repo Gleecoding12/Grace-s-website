@@ -1,0 +1,24 @@
+#header {
+  text-align: center;
+  background-color: #b9d9ed;
+  border-bottom: 1px solid black;
+}
+#navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+#navbar a {
+  text-decoration: none;
+color: black;
+}
+#navbar li {
+  list-style-type: none;
+  padding: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 30px;
+  margin: 0px 0px 15px 0px;
+  background-color: #b2d00b
+}
+#navbar li:hover {
+  background-color: aliceblue
+}
